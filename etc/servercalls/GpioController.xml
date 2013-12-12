@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="GpioController">
+	<method name="output">
+		<authorization action="gpio.write"/>
+	</method>
+	<method name="blink">
+		<authorization action="gpio.write"/>
+	</method>
+	<method name="setupPin">
+		<authorization action="gpio.write"/>
+	</method>
+</class>

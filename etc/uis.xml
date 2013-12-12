@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uis>
+	<ui name="gnome-shell" types="gi,ui" default="1"/>
+	
+<ui name="gnome-panel" types="ui" default="1"/></uis>

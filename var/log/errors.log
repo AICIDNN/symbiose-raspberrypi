@@ -1,0 +1,6 @@
+﻿Dec 19 13:37:53 localhost /var/www/projects/raspberrypi/lib/dao/phpgpio/Gpio.class.php:56 [lib\WarningError] file_put_contents(/sys/class/gpio/export): failed to open stream: Permission denied
+Dec 19 13:37:53 localhost /var/www/projects/raspberrypi/lib/dao/phpgpio/Gpio.class.php:60 [lib\WarningError] file_put_contents(/sys/class/gpio/gpio1/direction): failed to open stream: No such file or directory
+Dec 19 13:39:12 localhost /var/www/projects/raspberrypi/lib/dao/phpgpio/Gpio.class.php:56 [lib\WarningError] file_put_contents(/sys/class/gpio/export): failed to open stream: Permission denied
+Dec 19 13:39:12 localhost /var/www/projects/raspberrypi/lib/dao/phpgpio/Gpio.class.php:60 [lib\WarningError] file_put_contents(/sys/class/gpio/gpio1/direction): failed to open stream: No such file or directory
+Dec 25 11:01:37 localhost /var/www/projects/raspberrypi/lib/Authorization.class.php:37 [lib\NoticeError] Array to string conversion
+Dec 25 11:03:00 localhost /var/www/projects/raspberrypi/lib/Authorization.class.php:37 [lib\NoticeError] Array to string conversion

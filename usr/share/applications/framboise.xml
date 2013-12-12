@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Framboise - Gestionnaire du Raspberry Pi"/>
+	<attribute name="description" value="Gérer le Raspberry Pi"/>
+	<attribute name="command" value="framboise"/>
+	<attribute name="icon" value="applications/framboise"/>
+	<attribute name="menu" value="applications"/>
+	<attribute name="category" value="accessories"/>
+</shortcut>
